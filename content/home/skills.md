@@ -34,4 +34,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "AWS"
   
+[[feature]]
+ icon = "laptop-code"
+ icon_pack = "fas"
+ name = "Machine Learning"
+ 
+[[feature]]
+ icon = "python"
+ icon_pack = "fab"
+ name = "Python"
 +++
