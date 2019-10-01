@@ -19,7 +19,7 @@ authors = ["Henry Overos"]
 
 
 # Publication name and optional abbreviated version.
-Workshop = "*University of Maryland, Department of Government and Politics Methods Workshop"
+Organization = "*University of Maryland, Department of Government and Politics Methods Workshop"
 
 
 # Abstract and optional shortened version.
