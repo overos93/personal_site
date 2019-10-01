@@ -39,7 +39,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "static/files/birnir_overos_2019.pdf"
+url_pdf = "files/birnir_overos_2019.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
