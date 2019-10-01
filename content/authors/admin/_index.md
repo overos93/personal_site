@@ -30,14 +30,14 @@ interests:
 education:
  degrees:
   - degree: PhD in Political Science
-   institution: University of Maryland
-    year: Projected, May 2023
+     institution: University of Maryland
+     year: Projected, May 2023
   - degree: BA in International Relations, French Minor
-   institution: Covenant College
-    year: 2016
+     institution: Covenant College
+     year: 2016
  certifications:
   - certification: Inter-University Consortium of Political and Social Research (ICPSR)
-    year: Summer 2019
+     year: Summer 2019
   - certification: Empirical Implications of Theoretical Models (EITM) Certification
      year: Summer 2019
     
