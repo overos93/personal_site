@@ -1,7 +1,7 @@
----
-date: 2019-07-11T03:00:00
-title: Developing a Website via Academic-Hugo
----
++++
+date = "2019-07-11T03:00:00"
+title = "Developing a Website via Academic-Hugo"
++++
 
 It feels good to get something up and running. With websites, I feel like there's a litany of things that can go wrong. I've been playing around with various means of projecting my online image as an academic and PhD hopeful and, the combination I have found that works best for me is Twitter and a Website.
 
