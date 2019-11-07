@@ -1,4 +1,5 @@
 +++
+
 title = "Introduction to Bayesian Statistical Inference"
 
 authors = ["Henry Overos"]
