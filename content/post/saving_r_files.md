@@ -48,6 +48,8 @@ kenya_tweets <- search_tweets2(q = c("#kenya",
                                    "Kenya debt"),
                             n = 100,
                             include_rts = FALSE)
+kenya_users <- search_users(q = "kenya",
+                          n = 50)                            
 ```
 
 Okay so if I just ran this once I could simply write:
