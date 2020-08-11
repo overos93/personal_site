@@ -70,9 +70,11 @@ dates <- Sys.Date()
 for (date in dates) {
   outStr1 <- paste0("kt", date)
   outStr2 <- paste0("ku", date)
+  assign(outStr1, sgr_tweets)
+  assign(outStr2, sgr_users)
   save(outStr1, file = paste0(outStr1,".RData"))
   save(outStr2, file = paste0(outStr2,".RData"))
 }
 ```
 
-This is my initial solution. I'm sure there are packages or alternative options to solve a simple file-related problem. That being said, it is working for me now and the code is easy to expand upon if I need to save more files.
+This is my initial solution. I'm sure there are packages or alternative options to solve a simple file-related problem. That being said, it is working for me now and the code is easy to expand upon if I need to save more files. The key lines here are the two assign funcs. This is how you add a new name for an object post-hoc.
