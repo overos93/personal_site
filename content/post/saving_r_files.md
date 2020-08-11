@@ -72,8 +72,8 @@ for (date in dates) {
   outStr2 <- paste0("ku", date)
   assign(outStr1, sgr_tweets)
   assign(outStr2, sgr_users)
-  save(outStr1, file = paste0(outStr1,".RData"))
-  save(outStr2, file = paste0(outStr2,".RData"))
+  save(kt, file = paste0(outStr1,".RData"))
+  save(ku, file = paste0(outStr2,".RData"))
 }
 ```
 
