@@ -1,5 +1,9 @@
-# File Types in R - Rookie Mistakes and Lessons Learned
-
+---
+title: "File Types in R - Rookie Mistakes and Lessons Learned"
+author: "Henry Overos"
+date: "9/19/2020"
+output: html_document
+---
 I did something dumb. Something that I will never do again. It caused so much frustration that was needless but, as with many things that I fail at, I've learned a great deal in the process.
 
 In a previous post I mentioned how I had come up with a way to deal with an issue with RData files. It turns out - that code was all wrong. I also learned that RData files are not intended for what I thought - general saving of R objects.
