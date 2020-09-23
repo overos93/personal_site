@@ -31,7 +31,7 @@ education:
  courses:
  - course: PhD in Political Science
    institution: University of Maryland
-   year: Projected, May 2023
+   year: Projected, May 2022
  - course: BA in International Relations, French Minor
    institution: Covenant College
    year: 2016
