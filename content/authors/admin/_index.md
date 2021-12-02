@@ -76,4 +76,4 @@ email: ""
 #- Researchers
 #- Visitors
 ---
-Henry Overos is a PhD student at the Department of Government and Politics in the UMD College of Behavioral and Social Sciences. His research focuses on religious mobilization and computational social science. Currently, Henry is a research assistant at the Interdisciplinary Laboratory for Computational Social Science.
+Henry Overos is a PhD candidate at the Department of Government and Politics in the UMD College of Behavioral and Social Sciences. His research focuses on religious mobilization and computational social science as well as the intersection of identity and online information campaigns. Currently, Henry is a research assistant at the Interdisciplinary Laboratory for Computational Social Science.
