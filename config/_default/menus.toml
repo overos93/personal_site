@@ -33,5 +33,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "files/Graduate_CV_October_2019.pdf"
+    url = "files/Overos_Graduate_Resume_Dec_2021.pdf"
     weight = 60
