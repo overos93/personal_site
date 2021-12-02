@@ -18,11 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student at the Department of Government and Politics in the UMD College of Behavioral and Social Sciences. Studies religious mobilization and computational social science.
+bio: PhD candidate at the Department of Government and Politics in the UMD College of Behavioral and Social Sciences. Studies religious mobilization and computational social science.
 
 interests:
 - Religious political mobilization
 - Comparative politics
+- Online information campaigns
 - Computational social science methods
 - Machine learning
 - Bayesian statistical inference
